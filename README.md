@@ -1,2 +1,2 @@
 # MyChatApp
-Basic chat app using sockets in Java
+Basic chat windows app using sockets in Java
